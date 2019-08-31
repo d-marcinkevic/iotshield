@@ -1,0 +1,38 @@
+{"type": "profile_create", "model_name": "iPhone", "default": "allow", "whitelist": [], "blacklist": ["fake_bank.com"], "timestamp": 1563951285360}
+{"type": "profile_create", "model_name": "Thinkpad", "default": "allow", "whitelist": [], "blacklist": [], "timestamp": 1563951287812}
+{"type": "request", "request_id": "00ee3fde22f24384a21fbfcd2ba2ddc8", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "bbc.co.uk", "timestamp": 1563951288854}
+{"type": "request", "request_id": "a75f8da29a8b452fbdc0551868260050", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "bbc.co.uk", "timestamp": 1563951291303}
+{"type": "request", "request_id": "dbe771cb88ca4c529bd3b4f57394f356", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "bbc.co.uk", "timestamp": 1563951293745}
+{"type": "request", "request_id": "d33bd55ffcdf4d5ab33b1d1a1be17f90", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "facebook.com", "timestamp": 1563951296635}
+{"type": "request", "request_id": "0c3abf582a094573b9e8ca3d1fda9317", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "fake_bank.com", "timestamp": 1563951298449}
+{"type": "request", "request_id": "d29f858411c549cea12589b2d74dbf5f", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "facebook.com", "timestamp": 1563951300101}
+{"type": "request", "request_id": "bf8c9193d686457aa8e782650efc4a3a", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "facebook.com", "timestamp": 1563951300858}
+{"type": "request", "request_id": "2b9522dce0bd45579400dc01e6a5456b", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "google.com", "timestamp": 1563951305045}
+{"type": "profile_update", "model_name": "iPhone", "blacklist": [1563951307799], "timestamp": "bad_site.com"}
+{"type": "request", "request_id": "f9f3cd768d404b828e2f0b5f8e70b60a", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.com/v1/", "timestamp": 1563951310718}
+{"type": "request", "request_id": "967f3272a64f4dd99f446ab33e777a42", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "fake_bank.com", "timestamp": 1563951312010}
+{"type": "request", "request_id": "a76acef0cd8e460ebd8fd1fa10813ec2", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "google.com", "timestamp": 1563951316838}
+{"type": "request", "request_id": "4e1f2a774f67446d8f9f3cf09cda7d88", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "fake_bank.com", "timestamp": 1563951317563}
+{"type": "request", "request_id": "1b7bd59379ba4c8d9b4c518449e165f8", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "facebook.com", "timestamp": 1563951318049}
+{"type": "request", "request_id": "03565aac5fdb4c00b4416a70f97fa71c", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "fake_bank.com", "timestamp": 1563951320390}
+{"type": "request", "request_id": "355cce69659f460bbc9d295c51e2d9fc", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "bbc.co.uk", "timestamp": 1563951323879}
+{"type": "request", "request_id": "841864e57b3a4423a11349a6d43497d3", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": 1563951307799, "timestamp": 1563951324950}
+{"type": "request", "request_id": "ee14c1aac97b47a18330ce89a74819d7", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "facebook.com", "timestamp": 1563951329325}
+{"type": "profile_create", "model_name": "IOT Lightbulb", "default": "block", "whitelist": ["api.lightbulb.com/v1/"], "blacklist": [], "timestamp": 1563951330459}
+{"type": "request", "request_id": "a5472fa0e5d3497b8b07ab348096fc84", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.com/v1/", "timestamp": 1563951332121}
+{"type": "request", "request_id": "869b23f37a4c4e7598b68b3df445e541", "model_name": "IOT Lightbulb", "device_id": "26dad6af64034ec58f96f0e8cf2b4830", "url": "bad_site.com", "timestamp": 1563951333894}
+{"type": "request", "request_id": "0dbbc99f0f484bd48ee1c68b216884c7", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.io", "timestamp": 1563951337791}
+{"type": "profile_update", "model_name": "IOT Lightbulb", "whitelist": ["api.lightbulb.io"], "timestamp": 1563951341680}
+{"type": "request", "request_id": "9d76d2dfb0b0466e9bdc040c2e4a93d8", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.io", "timestamp": 1563951342003}
+{"type": "request", "request_id": "71d048f79d114bff968f56b25ec45533", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.io", "timestamp": 1563951346945}
+{"type": "profile_update", "model_name": "IOT Lightbulb", "blacklist": ["api.lightbulb.com/v1/"], "timestamp": 1563951348431}
+{"type": "request", "request_id": "541c010aa9f84f09be2116e63d085040", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.com/v1/", "timestamp": 1563951352563}
+{"type": "request", "request_id": "8a1927b76ad24cf98bfb3f8cb1d4b9c7", "model_name": "IOT Lightbulb", "device_id": "c8e80d8f54a14c1a9f26de89c3c2a6a9", "url": "api.lightbulb.io", "timestamp": 1563951355659}
+{"type": "request", "request_id": "a65c80378a344a5bbc9c2cb85236994c", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "bbc.co.uk", "timestamp": 1563951360632}
+{"type": "request", "request_id": "845f9f437a7d42b09ccb4e5e0ee73658", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "google.com", "timestamp": 1563951361592}
+{"type": "request", "request_id": "25eb91bd6ded4914829dca290bc3da23", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "google.com", "timestamp": 1563951363899}
+{"type": "request", "request_id": "9c7434a6fed041a5a27f0aa7e6b01bb8", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "facebook.com", "timestamp": 1563951364003}
+{"type": "request", "request_id": "1a71f614fc6a46b496d692b4ba015b26", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": 1563951307799, "timestamp": 1563951367439}
+{"type": "request", "request_id": "8f6b285e5ad7493993ac1787f006e025", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "bbc.co.uk", "timestamp": 1563951369657}
+{"type": "request", "request_id": "b8a2389d6f2b4f3e809e7d4bc24766f4", "model_name": "iPhone", "device_id": "d7c29fd60cee4e5f848bd198bcc2e100", "url": "google.com", "timestamp": 1563951373811}
+{"type": "request", "request_id": "0bbabc833c4745f1872e4b2c157c4d55", "model_name": "iPhone", "device_id": "7719aac0f34244cd9cf998505804a667", "url": "google.com", "timestamp": 1563951375383}
