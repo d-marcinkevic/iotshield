@@ -24,18 +24,6 @@ public class Profile {
     @JsonProperty("timestamp")
     private Long timestamp;
 
-    public Profile(String type, String modelName, String defaultPolicy, List<String> whitelist, List<String> blacklist, Long timestamp) {
-        this.type = type;
-        this.modelName = modelName;
-        this.defaultPolicy = defaultPolicy;
-        this.whitelist = whitelist;
-        this.blacklist = blacklist;
-        this.timestamp = timestamp;
-    }
-
-    public Profile(){
-    }
-
     public String getType() {
         return type;
     }
