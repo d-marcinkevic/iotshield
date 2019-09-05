@@ -30,6 +30,7 @@ public class IotshieldApplication implements CommandLineRunner {
         Set<Object> suspectedToBeHacked = new HashSet<>();
         Set<Object> missedBlocks = new HashSet<>();
         Set<Object> incorrectBlocks = new HashSet<>();
+
         for(Map message : inputMessages){
             outputMap = new HashMap<>();
             if("profile_create".equals(message.get("type"))){
@@ -101,6 +102,7 @@ public class IotshieldApplication implements CommandLineRunner {
                 outputList.add(outputMap);
             }
         }
+        
         jsonArray.addAll(outputList);
 
         try (FileWriter file = new FileWriter("output.json")) {
